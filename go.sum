@@ -1,0 +1,6 @@
+github.com/vrras/golang-module-example v1.0.0 h1:wR+W+RkRWsAK7RG0e7EA6APpCF4L9Z7TrIFXLhuyhe8=
+github.com/vrras/golang-module-example v1.0.0/go.mod h1:oyZ+sGxIbvEf3kypaNwSbwlPPERLCcCWGZ17wle+x9Y=
+github.com/vrras/golang-module-example v1.0.1 h1:amB37eVrtFLc4DBVLmJTwtdkGi4wPD+pv9/koAEZdP8=
+github.com/vrras/golang-module-example v1.0.1/go.mod h1:oyZ+sGxIbvEf3kypaNwSbwlPPERLCcCWGZ17wle+x9Y=
+github.com/vrras/golang-module-example/v2 v2.0.0 h1:2JiQZ0P/20WvKhEjgCASZvWqsXsM1sxHgrRCYf1LpH0=
+github.com/vrras/golang-module-example/v2 v2.0.0/go.mod h1:oiTzNQ7ANDJfBFDZaypi9W8FyTn2SRHB6hK5GlAFJhA=
